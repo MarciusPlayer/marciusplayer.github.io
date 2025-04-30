@@ -34,7 +34,7 @@
 
 body {
 background: var(--bg-url) no-repeat top center/cover;
-
+object-fit: cover;
 }
 
 body * {
